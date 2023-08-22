@@ -1,0 +1,22 @@
+div{
+    font-family: 'Poppins', sans-serif;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.play-container{
+    position: sticky;
+    bottom: 20px;
+    left: 50px;
+
+    img{
+        margin: 30px;
+        height: 100px;
+    }
+}
+
+.text-phrase{
+    cursor: pointer;
+}
